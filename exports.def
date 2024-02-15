@@ -1,0 +1,5 @@
+LIBRARY	"SDD"
+
+EXPORTS
+DllRegisterServer PRIVATE
+DllInstall PRIVATE
